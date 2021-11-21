@@ -452,3 +452,6 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+obj/Debug/net5.0/PocketBook.csproj.AssemblyReference.cache
+obj/Debug/net5.0/PocketBook.assets.cache
+obj/Debug/net5.0/PocketBook.GeneratedMSBuildEditorConfig.editorconfig
